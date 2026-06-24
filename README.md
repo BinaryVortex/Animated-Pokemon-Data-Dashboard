@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# 🎮 Animated Pokémon Data Dashboard
-
 An interactive Pokémon dashboard that combines modern UI design, smooth animations, and Pokémon data visualization to deliver an engaging user experience.
 
 🌐 Live Demo: https://binaryvortex.github.io/Animated-Pokemon-Data-Dashboard/
