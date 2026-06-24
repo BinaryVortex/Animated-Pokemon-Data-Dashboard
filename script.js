@@ -374,7 +374,7 @@ const App = () => {
     React.createElement(Buttons, { isLoading: isLoading, pkmn: pkmn, setLink: setLink })), /*#__PURE__*/
 
 
-    React.createElement("a", { href: "www.sharna.dev", id: "footer" }, "Coded by Sharna \u2192")));
+    React.createElement("a", { href: "https://www.linkedin.com/in/disandu-perera-8bb931264/", id: "footer" }, "Coded by Disandu Perera \u2192")));
 
 
 };
